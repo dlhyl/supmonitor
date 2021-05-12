@@ -1,0 +1,26 @@
+
+.btn-nonactive{
+    background-color: #f8f9fa!important;
+    border-color: #f8f9fa!important;
+    box-shadow: none!important;
+}
+.btn-active{
+    background-color: #e2e6ea!important;
+    border-color: #dae0e5!important;
+    box-shadow: none!important;
+}
+
+#dropdown-item-button{
+background-color: #d7d9da!important;
+box-shadow: none!important;
+border-color: transparent!important;
+border-radius: 1em;
+}
+
+.item-title {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    overflow: hidden;
+    height: 2.4rem;
+}
