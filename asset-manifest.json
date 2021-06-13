@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/supmonitor/static/css/main.880c6546.chunk.css",
+    "main.js": "/supmonitor/static/js/main.33026342.chunk.js",
+    "main.js.map": "/supmonitor/static/js/main.33026342.chunk.js.map",
+    "runtime-main.js": "/supmonitor/static/js/runtime-main.aaf42f13.js",
+    "runtime-main.js.map": "/supmonitor/static/js/runtime-main.aaf42f13.js.map",
+    "static/css/2.11829350.chunk.css": "/supmonitor/static/css/2.11829350.chunk.css",
+    "static/js/2.b52b57d3.chunk.js": "/supmonitor/static/js/2.b52b57d3.chunk.js",
+    "static/js/2.b52b57d3.chunk.js.map": "/supmonitor/static/js/2.b52b57d3.chunk.js.map",
+    "index.html": "/supmonitor/index.html",
+    "precache-manifest.557f7bfb07efce99bbda418fae78df0c.js": "/supmonitor/precache-manifest.557f7bfb07efce99bbda418fae78df0c.js",
+    "service-worker.js": "/supmonitor/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/supmonitor/static/css/2.11829350.chunk.css.map",
+    "static/css/main.880c6546.chunk.css.map": "/supmonitor/static/css/main.880c6546.chunk.css.map",
+    "static/js/2.b52b57d3.chunk.js.LICENSE.txt": "/supmonitor/static/js/2.b52b57d3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aaf42f13.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.b52b57d3.chunk.js",
+    "static/css/main.880c6546.chunk.css",
+    "static/js/main.33026342.chunk.js"
+  ]
+}
